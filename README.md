@@ -26,11 +26,11 @@ Lalu, diberi inputan jika ingin mencari tahu mengenai bencana alam tersebut.
 Dalam menu lanjutan ini, diberi inputan apakah ingin melihat panduan dari bencana alam yang sudah diinput sebelumnya? 
 Jika iya, maka panduan keselamatan akan terlampir dengan urutan deskripsi bencana alam dan dilanjutkan dengan panduan bencana tersebut.
 
-# memilih tidak dalam menu lanjutan
+# memilih "tidak" dalam menu lanjutan
 
 ![26219d06-1a2e-4df1-aafa-3a37caf14db1](https://github.com/user-attachments/assets/3558b764-df17-47d8-95f2-e9b72ad03a63)
 
-Jika memilih tidak dalam menu lanjutan, maka keluaran selanjutnya akan langsung menuju menu pada sistem CRUD.
+Jika memilih "tidak" dalam menu lanjutan, maka keluaran selanjutnya akan langsung menuju menu pada sistem CRUD.
 
 # Tidak melakukan inputan sesuai menu
 
@@ -43,7 +43,7 @@ Jika memasukkan inputan yang tidak ada di dalam menu, maka keluaran akan menceta
 # Menu utama dalam sistem CRUD
 
 ![d5add9b6-a917-415a-8973-d04e87c6304b](https://github.com/user-attachments/assets/dd881271-c414-497a-968a-5e20409d79bb)
-Dalam menu utama sistem CRUD, terdapat 4 pilihan yang dapat di pilih
+Dalam menu utama sistem CRUD, terdapat 4 pilihan yang dapat dipilih
 1. Tambah bencana
 2. Ubah bencana
 3. Hapus bencana
@@ -68,7 +68,7 @@ Data yang sudah ditambahkan akan di tampilkan.
 # Menu kedua CRUD ( Ubah bencana)
 
 ![b2f4871a-4fcf-4061-97eb-5daa7690bafc](https://github.com/user-attachments/assets/347f4c15-80ce-4cf9-b848-2900ef0de76c)
-Dalam menu Ubah bencana, akan diberikan 3 inputan saja, yaitu 
+Dalam menu Ubah bencana, akan diberikan 3 inputan, yaitu 
 
 1. Masukkan nomor yang ingin di ubah dalam daftar
 2. Masukkan nama baru
