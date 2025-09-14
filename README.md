@@ -7,5 +7,3 @@ NIM     :2509116078
 
 Sistem Informasi (B)
 
-#Tampilan_Flowchart
-https://github.com/naisylauliyaa-kudo/minpro1/blob/81a37f20ee24ade93ac58e773de5704e830bac71/flowchart%20minpro1.png
