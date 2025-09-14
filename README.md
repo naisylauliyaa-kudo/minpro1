@@ -53,6 +53,7 @@ Dalam menu utama sistem CRUD, terdapat 4 pilihan yang dapat dipilih
 
 ![135def45-f3ee-4300-a20a-9c49f71ddeac](https://github.com/user-attachments/assets/24f72c19-814e-4f4a-8c86-2d0d854c320c)
 Dalam menu Tambah bencana akan diberikan 6 inputan, 4 di antaranya adalah cara panduan keselamatan
+
 urutan inputan yang diminta adalah
 1. Masukkan nama bencana
 2. Masukkan deskripsi
