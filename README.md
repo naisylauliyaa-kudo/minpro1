@@ -7,3 +7,5 @@ NIM     :2509116078
 
 Sistem Informasi (B)
 
+#Flowchart Panduan Keselamatan Bencana Alam
+<img width="1597" height="1912" alt="minpro1fix drawio" src="https://github.com/user-attachments/assets/89296069-db16-45f2-b67f-9c40b9603a6f" />
