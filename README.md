@@ -60,19 +60,26 @@ urutan inputan yang diminta adalah
 4. Masukkan cara panduan keselamatan 2
 5. Masukkan cara panduan keselamatan 3
 6. Masukkan cara panduan keselamatan 4
+
 Jika sudah melakukan semua, maka data baru berhasil di tambahkan
+
 Data yang sudah ditambahkan akan di tampilkan
 
 # Menu kedua CRUD ( Ubah bencana)
 
 ![b2f4871a-4fcf-4061-97eb-5daa7690bafc](https://github.com/user-attachments/assets/347f4c15-80ce-4cf9-b848-2900ef0de76c)
 Dalam menu Ubah bencana, akan diberikan 3 inputan saja, yaitu 
+
 1. Masukkan nomor yang ingin di ubah dalam daftar
 2. Masukkan nama baru
 3. Masukkan deskripsi
+
 Dalam menu ini, dibatasi hanya mengubah nama dan deskripsi.
+
 Jika sudah melakukan semua inputan, maka data berhasil di ubah
+
 Data yang sudah di ubah akan ditampilkan pada data baru.
+
 
 Jika menginput nomor yang tidak terdapat dalam menu, maka program akan mencetak Nomor tidak valid dan program akan selesai.
 
@@ -83,7 +90,9 @@ Jika menginput nomor yang tidak terdapat dalam menu, maka program akan mencetak 
 ![9918f353-42a4-4d39-8c24-c8c9cf27ec62](https://github.com/user-attachments/assets/3c179694-9bfa-4518-963c-d76e5d23b26f)
 Dalam menu ini, hanya terdapat 1 inputan yaitu
 1. Masukkan nomor yang ingin di hapus
+
 Jika nomor yang di input terdapat pada menu, maka program akan langsung menghapus daftar bencana sesuai inputan
+
 Data akan ditampilkan tanpa data yang di hapus ( sudah di perbaharui )
 
 Jika menginput nomor yang tidak terdapat dalam menu, maka program akan mencetak Nomor tidak valid dan program akan selesai.
@@ -93,7 +102,6 @@ Jika menginput nomor yang tidak terdapat dalam menu, maka program akan mencetak 
 # Menu terakhir CRUD ( Tampilkan bencana )
 
 ![b2180577-2ae8-4822-b21c-603ab482931b](https://github.com/user-attachments/assets/8bc6fbc6-a442-432c-b150-b0e843673022)
-
 Untuk menu terakhir, program hanya akan menampilkan kembali list dari bencana yang sudah ada tanpa mengubah apapun.
 
 # Menginput diluar menu CRUD
